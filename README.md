@@ -10,4 +10,4 @@ Rules of the Game
  *    Each time when the game starts, the game will change the values of each crystal
 
  Screenshot 
- ![alt text](https://github.com/rohitchhetri/unit-4-game/blob/master/assets/images/Screenshot.png)
+ ![Screenshot](https://github.com/rohitchhetri/unit-4-game/blob/master/assets/images/Screenshot.png)
