@@ -1,0 +1,58 @@
+body{
+    background-image: linear-gradient(blue,white);
+    background-repeat: repeat-x;
+    height: 50px;
+}
+
+header{
+    text-align: center;
+}
+
+.rules{
+    background-color: maroon;
+    color: white;
+    border: 2px solid black;
+}
+
+.scores{
+    background-color:#2a7c7e;
+    color: white;
+    border: 2px dotted black;
+    height: 225px;
+}
+
+#score{
+
+    background: black;
+    color: aliceblue;
+    font-size: 25px;
+    width: 100%;
+    padding: 10px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border: 2px solid blue;
+    margin: 10px;
+}
+
+#rndValue{
+    font-weight: bold;
+    font-size: 24px;
+    padding-left: 10px;
+}
+
+#userscore{
+    display: block;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    background-color:black;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    margin: 0;
+    text-align: center;
+    
+}
