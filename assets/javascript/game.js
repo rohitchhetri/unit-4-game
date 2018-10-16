@@ -34,13 +34,14 @@ $("#crystal-image4").html("<img src=" + "./assets/images/crystal4.png" + " value
 //on click function for image elements of html 
 
 $("img").on("click", function () {
+
     var crystalValue = ($(this).attr("value"));
     crystalValue = parseInt(crystalValue);
     //console.log(this);
     //debugger;
     //console.log("New Score: " + crystalValue);
     totalScore += crystalValue;
-    console.log(totalScore);
+    //console.log(totalScore);
 
     $("#userscore").text(totalScore);
 
